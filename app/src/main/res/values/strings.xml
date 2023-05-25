@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Beritaku</string>
+
+    <string name="title_activity_news">News</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="img">Images</string>
+    <string name="back">Back Button</string>
+
+    <string name="news">List Berita</string>
+    <string name="detail">Detail Berita</string>
+
+    <string name="about">Tentang Saya</string>
+
+    <string name="photoUrl">https://avatars.githubusercontent.com/u/113074933</string>
+
+    <string name="username">abdurrx</string>
+    <string name="name">Abdur Rahman</string>
+    <string name="email">abdur.rahmanux@gmail.com</string>
+</resources>
